@@ -8,7 +8,7 @@
 
 @font-face{
     font-family: "Etna";
-    src:url("../font/etna-free-font.otf") format("otf");
+    src:local('Etna'),url("../font/etna-free-font.otf") format("otf");
 }
 
 body,html {
